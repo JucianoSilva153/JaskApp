@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaskApp.UI", "JaskApp.UI\JaskApp.UI.csproj", "{E7C91DD3-A279-444C-B242-EB526A43E579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaskApp.Domain", "JaskApp.Domain\JaskApp.Domain.csproj", "{3D7CF9AA-71B1-4196-AA75-33E83E4E088B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaskApp.Infraestructure", "JaskApp.Infraestructure\JaskApp.Infraestructure.csproj", "{898040E5-84C6-4D1A-997D-0CE4F41AF68C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7C91DD3-A279-444C-B242-EB526A43E579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C91DD3-A279-444C-B242-EB526A43E579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C91DD3-A279-444C-B242-EB526A43E579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C91DD3-A279-444C-B242-EB526A43E579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7CF9AA-71B1-4196-AA75-33E83E4E088B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7CF9AA-71B1-4196-AA75-33E83E4E088B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7CF9AA-71B1-4196-AA75-33E83E4E088B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7CF9AA-71B1-4196-AA75-33E83E4E088B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898040E5-84C6-4D1A-997D-0CE4F41AF68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898040E5-84C6-4D1A-997D-0CE4F41AF68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898040E5-84C6-4D1A-997D-0CE4F41AF68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898040E5-84C6-4D1A-997D-0CE4F41AF68C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
